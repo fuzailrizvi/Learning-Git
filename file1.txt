@@ -1,1 +1,6 @@
 this belongs to file 1
+
+this is newfeature code
+function newfeature(){
+    return "abcd"
+}
